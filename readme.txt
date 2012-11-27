@@ -6,7 +6,6 @@ Requires at least: 3.0
 Tested up to: 3.4.2
 Stable tag: 1.0.2
 License: GPLv2 or later
-Plugin URI: http://tonyarchambeau.com/blog/153-wordpress-plugin-copyright-footer-rss/
 
 
 Add easily your own copyright at the footer of your RSS feed posts. It improves the SEO and avoids content scrapers to steal your posts.
