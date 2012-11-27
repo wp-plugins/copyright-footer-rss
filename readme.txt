@@ -4,8 +4,9 @@ Donate link: http://www.infowebmaster.fr/dons.php
 Tags: atom, rss, rss2, copyright, footer, feed, feeds, protection, splogs, syndication, aggregation, theft, content scrapers, seo
 Requires at least: 3.0
 Tested up to: 3.4.2
-Stable tag: 1.0.1
+Stable tag: 1.0.2
 License: GPLv2 or later
+Plugin URI: http://tonyarchambeau.com/blog/153-wordpress-plugin-copyright-footer-rss/
 
 
 Add easily your own copyright at the footer of your RSS feed posts. It improves the SEO and avoids content scrapers to steal your posts.
@@ -53,10 +54,11 @@ Yes and no. Google avoid to present the same content in his results pages. It tr
 If the splogs copies the copyright message with the link to your original post, Google may understand that you are the first one who published the content. But this is not a 100% sure.
 
 
-== Changelog ==
+== Screenshots ==
+1. How to edit the copyright message on the plugin page.
 
-= 1.0.1 =
-Small debug on readme.txt
+
+== Changelog ==
 
 = 1.0 =
 Initial Release.
