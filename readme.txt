@@ -3,8 +3,8 @@ Contributors: funnycat
 Donate link: http://www.infowebmaster.fr/dons.php
 Tags: atom, rss, rss2, copyright, footer, feed, feeds, protection, splogs, syndication, aggregation, theft, content scrapers, seo
 Requires at least: 3.0
-Tested up to: 3.4.2
-Stable tag: 1.0.2
+Tested up to: 3.8.0
+Stable tag: 1.0.3
 License: GPLv2 or later
 
 
@@ -28,8 +28,9 @@ Adding a copyright at the end of your feed posts as the following advantages:
 *   Personnalize your copyright. You can edit the default copyright and write your own message
 *   You can use HTML on the copyright message. Such as adding a link to the original post
 *   Works for RSS feed and ATOM feed
+*   Multi languages : English, French (from : France, Canada, Belgium, Switzerland and Luxembourg)
 
-Want a WordPress developper? Feel free to <a href="http://en.tonyarchambeau.com/contact.html">contact me</a>.
+Want a WordPress developper? Want to add a translation? Feel free to <a href="http://en.tonyarchambeau.com/contact.html">contact me</a>.
 
 
 == Installation ==
@@ -59,6 +60,12 @@ If the splogs copies the copyright message with the link to your original post, 
 
 == Changelog ==
 
+= 1.0.3 = 
+Plugin now multilingual. Add the french language
+= 1.0.2 =
+Small modification on readme.txt file
+= 1.0.1 =
+Small debug on readme.txt 
 = 1.0 =
 Initial Release.
 
