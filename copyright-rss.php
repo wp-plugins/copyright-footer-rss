@@ -3,7 +3,7 @@
 Plugin Name: Copyright Footer RSS
 Plugin URI: http://tonyarchambeau.com/blog/153-wordpress-plugin-copyright-footer-rss/
 Description: Simply add your own copyright message on the footer of your RSS feed (and ATOM feed)
-Version: 1.0.3
+Version: 1.0.4
 Author: Tony Archambeau
 Author URI: http://tonyarchambeau.com/blog/
 Text Domain: copyright-footer-rss

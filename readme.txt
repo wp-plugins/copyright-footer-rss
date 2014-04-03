@@ -3,8 +3,8 @@ Contributors: funnycat
 Donate link: http://www.infowebmaster.fr/dons.php
 Tags: atom, rss, rss2, copyright, footer, feed, feeds, protection, splogs, syndication, aggregation, theft, content scrapers, seo
 Requires at least: 3.0
-Tested up to: 3.8.0
-Stable tag: 1.0.3
+Tested up to: 3.8.1
+Stable tag: 1.0.4
 License: GPLv2 or later
 
 
@@ -60,7 +60,9 @@ If the splogs copies the copyright message with the link to your original post, 
 
 == Changelog ==
 
-= 1.0.3 = 
+= 1.0.4 =
+Add spanish translation.
+= 1.0.3 =
 Plugin now multilingual. Add the french language
 = 1.0.2 =
 Small modification on readme.txt file
