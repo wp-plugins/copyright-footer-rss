@@ -53,6 +53,15 @@ Yes, it is possible. Add a specific message, like an unknown words in your copyr
 Yes and no. Google avoid to present the same content in his results pages. It tries to determine who is the original author for any content. Without any links, Google may estimate that the bigger website with a higher notoriety is the original author.
 If the splogs copies the copyright message with the link to your original post, Google may understand that you are the first one who published the content. But this is not a 100% sure.
 
+= Which languages does WP Sitemap Page support? =
+This plugin is available through the following languages :
+
+*   English (default language)
+*   French (`fr_FR`, `fr_CA`, `fr_BE`, `fr_CH`, `fr_LU`) by [Tony Archambeau](http://tonyarchambeau.com/)
+*   Spanish (`es_ES`) by [WebHostingHub](http://www.webhostinghub.com/)
+
+If you want to add another language, feel free to [contact me](http://en.tonyarchambeau.com/contact.html) in order to send the file with the correct translation files (.mo and .po). Thanks a lot!
+
 
 == Screenshots ==
 1. How to edit the copyright message on the plugin page.
